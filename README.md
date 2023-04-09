@@ -2,7 +2,7 @@
 ## What does this sample app do?
 This demo application is an Android application built with Kotlin that can detect the device's enabled Accessibility Services. This is useful for preventing malicious applications from abusing the Accessibility Service in order to attack your application.
 
-![image](https://user-images.githubusercontent.com/100112988/230752684-81404288-7598-4062-858d-d1bda6d9d311.png)
+<p align="center"><img src="https://user-images.githubusercontent.com/100112988/230752684-81404288-7598-4062-858d-d1bda6d9d311.png" width="280"></p>
 
 ## What these sections on the screen means?
 ### Detected Backlisted Service
