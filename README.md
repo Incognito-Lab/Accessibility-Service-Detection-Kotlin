@@ -1,4 +1,4 @@
-# Accessiblity-Service-Detection-Kotlin
+# Accessibility-Service-Detection-Kotlin
 ## What does this demo app do?
 This demo application is an Android application built with Kotlin, this application can detect the device's enabled Accessibility Services. This is useful for preventing malicious applications from abusing the Accessibility Service in order to attack your application.
 
